@@ -1,0 +1,11 @@
+ python3 reddit_user_persona.py
+USERNAME1:
+Enter Reddit user profile URL: https://www.reddit.com/user/Present-Belt-1182/
+🔍 Fetching posts and comments for u/Present-Belt-1182...
+Posts: 0it [00:00, ?it/s]
+Posts: 1it [00:01,  1.53s/it]
+Comments: 1it [00:00,  1.90it/s]
+USERNAME2:Enter Reddit user profile URL: https://www.reddit.com/user/ZeaFLEXop123456/
+🔍 Fetching posts and comments for u/ZeaFLEXop123456...
+Posts: 8it [00:01,  7.31it/s]
+Comments: 80it [00:01, 70.68it/s]
